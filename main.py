@@ -10,8 +10,8 @@ listens on the port provided by the environment (Render sets the
 the Vercel frontend.
 
 The data served here is manually curated from the user's résumé and
-GitHub repositories【254256442915727†screenshot】.  You can modify these
-structures to add or update information without changing the API
+GitHub repositories.  You can modify these
+structures to add or
 contract.
 """
 
@@ -168,20 +168,20 @@ EXPERIENCE: List[dict] = [
         "responsibilities": [
             "Collaborated with Walmart on the Insights Service, integrating runtime "
             "signals from multiple sources and leveraging GenAI/LLM techniques to "
-            "correlate errors and accelerate incident resolution【254256442915727†screenshot】.",
+            "correlate errors and accelerate incident resolution.",
             "Integrated Milvus vector DB to store and query embedded knowledge "
             "artefacts for Retrieval‑Augmented Generation (RAG) workflows, improving "
-            "document‑based AI insights【254256442915727†screenshot】.",
+            "document‑based AI insights.",
             "Designed and implemented RESTful APIs using Flask and FastAPI to fetch "
             "anomaly data, generate insight events and present summarised results"
-            "【254256442915727†screenshot】.",
+                    "Led knowledge sharing sessions and mentored junior team members on AI and microservices best practices.",
             "Developed CRUD APIs and implemented efficient cleanup logic for Milvus "
-            "vector DB and Google Cloud Storage【254256442915727†screenshot】.",
+            "vector DB and Google Cloud Storage.",
             "Automated unit and integration tests with PyTest, increasing test "
-            "coverage from 0 % to 50 %【254256442915727†screenshot】."
+            "coverage from 0 % to 50 %."
         ],
     },
-    {
+    
         "company": "Avaya",
         "role": "Software Engineer",
         "location": "Irving, Texas",
@@ -190,21 +190,21 @@ EXPERIENCE: List[dict] = [
         "responsibilities": [
             "Designed and implemented CI/CD pipelines using Azure DevOps, Jenkins "
             "and ArgoCD, reducing deployment errors by 20 % and deployment "
-            "downtime by 40 %【254256442915727†screenshot】.",
+            "downtime by 40 %.",
             "Developed FastAPI‑based microservices to analyse customer–agent chat "
             "conversations with LangChain for RAG and OpenAI, enabling efficient "
-            "retrieval and generation of contextual insights【254256442915727†screenshot】.",
+            "retrieval and generation of contextual insights.",
             "Automated certificate and key renewal for more than 200 certificates using "
             "Azure DevOps, Jenkins and GitHub Actions, preventing outages and "
-            "improving system security【254256442915727†screenshot】.",
+            "improving system security.",
             "Built scalable microservices on Docker and Kubernetes to improve "
-            "performance and scalability【254256442915727†screenshot】.",
+            "performance and scalability.",
             "Established real‑time monitoring and alerting in Datadog with custom "
             "dashboards to track key metrics and enable swift resolution of P1 and "
-            "P2 incidents【254256442915727†screenshot】.",
+            "P2 incidents.",
             "Maintained RESTful APIs using Spring Boot and led front‑end development "
             "with Angular, achieving 85 % code coverage and developing over 100 "
-            "Playwright automation scripts【254256442915727†screenshot】."
+            "Playwright automation scripts."
         ],
     },
     {
@@ -217,12 +217,12 @@ EXPERIENCE: List[dict] = [
             "Built and deployed Python applications for data messaging and file "
             "processing, automating complex ETL processes with Python and Bash "
             "scripts.  The automation reduced manual workload by 80 % and saved 45 "
-            "hours per week【254256442915727†screenshot】.",
+            "hours per week.",
             "Developed a web UI within the STB Master Data Management (MDM) platform "
-            "using JavaScript to automate supply chain processes【254256442915727†screenshot】.",
+            "using JavaScript to automate supply chain processes.",
             "Created reusable data transformation workflows in Informatica ETL to "
             "execute complex business rules, boosting system performance by 50 % "
-            "through strategic tuning【254256442915727†screenshot】."
+            "through strategic tuning."
         ],
     },
 ]
