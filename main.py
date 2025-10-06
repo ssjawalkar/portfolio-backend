@@ -167,20 +167,13 @@ EXPERIENCE: List[dict] = [
         "start_date": "March 2025",
         "end_date": "Present",
         "responsibilities": [
-            "Collaborated with Walmart on the Insights Service, integrating runtime "
-            "signals from multiple sources and leveraging GenAI/LLM techniques to "
-            "correlate errors and accelerate incident resolution.",
-            "Integrated Milvus vector DB to store and query embedded knowledge "
-            "artefacts for Retrieval‑Augmented Generation (RAG) workflows, improving "
-            "document‑based AI insights.",
-            "Designed and implemented RESTful APIs using Flask and FastAPI to fetch "
-            "anomaly data, generate insight events and present summarised results"
-                    "Led knowledge sharing sessions and mentored junior team members on AI and microservices best practices.",
-            "Developed CRUD APIs and implemented efficient cleanup logic for Milvus "
-            "vector DB and Google Cloud Storage.",
-            "Automated unit and integration tests with PyTest, increasing test "
-            "coverage from 0 % to 50 %."
-        ],
+    "Collaborated with Walmart on the Insights Service, integrating runtime signals from multiple sources and leveraging GenAI/LLM techniques to correlate errors and accelerate incident resolution.",
+    "Integrated Milvus vector DB to store and query embeddings, improving artefacts for Retrieval‑Augmented Generation (RAG) workflows and retrieval of document‑based AI insights.",
+    "Designed and implemented RESTful APIs using Flask and FastAPI to fetch anomaly data, generate insight events and present summarised results.",
+    "Led knowledge‑sharing sessions and mentored team members on AI and microservices best practices.",
+    "Developed CRUD APIs and implemented efficient cleanup logic for Milvus vector DB and Google Cloud Storage.",
+    "Automated unit and integration tests with PyTest, increasing test coverage from 0% to 50%.",
+],
     },
     
         "company": "Avaya",
